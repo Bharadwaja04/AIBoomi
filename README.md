@@ -1,73 +1,87 @@
-# Welcome to your Lovable project
+# 🧠 FeedForward – Structured Client Feedback Platform
 
-## Project info
+## 📖 Overview
+**FeedForward** is a platform that gathers and organizes feedback from multiple clients or team members, turning them into **clear, prioritized action lists**.  
+It smoothens personalization and communication by providing structured summaries for each project, helping freelancers and teams manage unstructured feedback efficiently.
 
-**URL**: https://lovable.dev/projects/92c9e735-5d4c-4336-a6d1-4f8b6cf87c90
+This platform eliminates the confusion of scattered feedback and repetitive comments, offering users a centralized and intelligent feedback hub.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 💡 Problem It Solves
+Freelancers and teams often face challenges like:
+- Receiving multiple, scattered comments across different channels (emails, chats, shared docs).
+- Confusion about what feedback is most important or repeated.
+- Lost productivity and poor communication clarity.
 
-**Use Lovable**
+**FeedForward** solves this by converting unstructured feedback into **organized, prioritized summaries** — helping teams focus on what matters most.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/92c9e735-5d4c-4336-a6d1-4f8b6cf87c90) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Our Solution
+FeedForward provides a single workspace where:
+- Feedback from different clients is collected and categorized.  
+- AI automatically summarizes and prioritizes all comments.  
+- Each project contains uploads, feedback, and a summary view.  
+- Users get clarity on next steps without manually sorting through feedback.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 👥 Who Will Use It
+🎯 **Early adopters:** Freelancers and creators handling multiple client projects who frequently receive feedback in different forms.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Later, FeedForward will scale for:
+- Creative agencies  
+- Product teams  
+- Remote collaboration groups
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🌟 Why Use FeedForward
+- 🧠 **AI feedback summarization:** Converts unstructured text into actionable insights.  
+- 🗂️ **Organized projects:** Each project has its files, comments, and summaries.  
+- 🧾 **Clear priorities:** Automatically ranks client comments by importance.  
+- 💬 **Smooth communication:** Reduces back-and-forth confusion between clients and teams.  
+- 🪄 **Personalized workspace:** Tailored structure for every project and client.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 💰 Business Model
+**Freemium Subscription Model**
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+1. **Free Tier**
+   - Limited number of projects  
+   - Limited feedback summarization tokens  
 
-**Edit a file directly in GitHub**
+2. **Premium Tier**
+   - Unlimited projects  
+   - More summarization tokens  
+   - Collaboration features for multiple team members  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## ⚙️ Technology Stack
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+| Layer | Tools / Frameworks |
+|-------|--------------------|
+| **Frontend** | Next.js 14 (App Router), TypeScript, TailwindCSS, ShadCN/UI |
+| **Backend** | Node.js + Express.js |
+| **Database** | Supabase / MongoDB |
+| **AI Engine** | Gemini 2.5 Pro via FastRouter |
+| **File Handling** | Supabase Storage (Images, PDFs, Text) |
+| **Language** | TypeScript & Python |
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 🧩 Key Features
+- 🧾 Create and manage multiple projects  
+- 📤 Upload files (text, image, or PDF) per project  
+- 💬 Add and view client comments  
+- 🧠 AI summarizer that merges duplicate feedback  
+- 📋 Generates prioritized action lists for clarity  
+- 🪶 Intuitive dashboard to track all project summaries  
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/92c9e735-5d4c-4336-a6d1-4f8b6cf87c90) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## 🎥 Product Demo
+🎬 [Watch the Loom Demo Here](h[ttps://loom.com/share/your-demo-link-here](https://www.loom.com/share/6744ed516e2c40c5a159f99dd23032b8))
