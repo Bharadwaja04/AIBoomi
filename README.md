@@ -84,4 +84,4 @@ Later, FeedForward will scale for:
 ---
 
 ## 🎥 Product Demo
-🎬 [Watch the Loom Demo Here](h[ttps://loom.com/share/your-demo-link-here](https://www.loom.com/share/6744ed516e2c40c5a159f99dd23032b8))
+🎬 [Watch the Loom Demo Here](https://www.loom.com/share/6744ed516e2c40c5a159f99dd23032b8)
