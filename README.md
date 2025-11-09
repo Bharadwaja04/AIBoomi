@@ -10,7 +10,7 @@ This platform eliminates the confusion of scattered feedback and repetitive comm
 
 ## 💡 Problem It Solves
 Freelancers and teams often face challenges like:
-- Receiving multiple, scattered comments across different channels (emails, chats, shared docs).
+- Receiving multiple, scattered comments across different channels like multiple clients.
 - Confusion about what feedback is most important or repeated.
 - Lost productivity and poor communication clarity.
 
